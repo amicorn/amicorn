@@ -2,7 +2,7 @@
 
 I'm **Amy**, a software engineer, dancer, and artist.
 
-I'm currently a Software Engineer at [**@Google**](https://github.com/google) working at the forefront of AI Search, where I develop next-generation features across Travel and Food for millions of daily global users. My work adds new features directly to the Google Search page and improves LLM accuracy for millions of complex user searches, such as "hotels in Las Vegas for kids who love shows" or "Japanese restaurants in Mountain View."
+I'm currently a Software Engineer at [**@Google**](https://github.com/google) working at the forefront of **AI Search**, where I develop next-generation features across Travel and Food for millions of daily global users. My work adds new features directly to the Google Search page and improves LLM accuracy for millions of complex user searches, such as "hotels in Las Vegas for kids who love shows" or "Japanese restaurants in Mountain View."
 
 Previously, I was at [**@Amazon**](https://github.com/aws) (Ads) and [**@BlackBerry**](https://github.com/blackberry) (AI Cybersecurity).
 
