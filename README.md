@@ -21,6 +21,12 @@ Outside of work, I’m fascinated by the intersection of creativity, art, and co
 
 By using "girly," cute aesthetics and pop culture themes, I aim to show girls that engineering is a creative tool that relates to their interests and that coding is cool, cute, and fun. :) 
 
+#### Links
+- 🎨 [My art portfolio](https://www.tumblr.com/amyouyangart)
+- 👾 [My code art passion projects (games and apps)](https://github.com/amicorn)
+- 💜 [My Grace Hopper women in tech conference speaker session](https://shorturl.at/FePAV)
+- 🔗 [LinkedIn post where I share my creative engineering story](https://www.linkedin.com/posts/amy-o_gracehoppercelebration-ghc26-anitaborg-activity-7439423721360203776-BEpO/)
+
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/amy-o)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://amyouyang1.medium.com/)
