@@ -29,9 +29,8 @@ By using "girly," cute aesthetics and pop culture themes, I aim to show girls th
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/amy-o)
+[<img alt="Substack" src="https://img.shields.io/badge/Substack-FAF9F6?&style=for-the-badge&logo=Substack&logoColor=white%22" />](https://substack.com/@amicorn)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://amyouyang1.medium.com/)
-[<img alt="Tumblr" src="https://img.shields.io/badge/Tumblr-darkblue.svg?&style=for-the-badge&logo=Tumblr&logoColor=white%22%20" />](https://www.tumblr.com/amyouyangart)
+[<img alt="Tumblr" src="https://img.shields.io/badge/Tumblr-darkblue.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" />](https://www.tumblr.com/amyouyangart)
 [<img alt="Yelp" src="https://img.shields.io/badge/Yelp-red.svg?&style=for-the-badge&logo=Yelp&logoColor=white" />](https://www.yelp.com/user_details?userid=swklLzy1xKGmEcyLtHhkNw)
-
-
 
