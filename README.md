@@ -22,10 +22,15 @@ Outside of work, I’m fascinated by the intersection of creativity, art, and co
 By using "girly," cute aesthetics and pop culture themes, I aim to show girls that engineering is a creative tool that relates to their interests and that coding is cool, cute, and fun. :) 
 
 #### Links
-- 🎨 [My art portfolio](https://www.tumblr.com/amyouyangart)
+- 🎨 [My art portfolio](https://www.tumblr.com/amyouyangart), [more of my art](https://substack.com/@amicorn)
 - 👾 [My code art passion projects (games and apps)](https://github.com/amicorn)
-- 💜 [My Grace Hopper women in tech conference speaker session](https://shorturl.at/FePAV)
+- 📚 [Substack article on creative engineering](https://amicorn.substack.com/p/the-code-artist-using-pop-culture?r=l06c2)
 - 🔗 [LinkedIn post where I share my creative engineering story](https://www.linkedin.com/posts/amy-o_gracehoppercelebration-ghc26-anitaborg-activity-7439423721360203776-BEpO/)
+- 💜 My AnitaB.org tech conference speaker sessions:
+  - [The Code Artist: Using Pop Culture and Art to Bridge the Engineering Gap [10139]](https://www.gracehoppercelebration.com/flow/anitab/ghc26/GHCsessionvotingunauth/page/page/session/1772247776984001Bcjm) by Amy Ouyang
+  - [Leetcode++: Building a career that outlasts the hype [8818]](https://www.gracehoppercelebration.com/flow/anitab/ghc26/GHCsessionvotingunauth/page/page/session/1772175016815001KZOD) (The Google x Meta x Microsoft x NVIDIA tech panel I’m on)
+  - [Cost of a Millisecond: Navigating the New Era of Latency [7769]](https://www.gracehoppercelebration.com/flow/anitab/ghc26/GHCsessionvotingunauth/page/page/session/1771998859379001WgoV) by 2 Google Search Software Engineers
+
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/amy-o)
