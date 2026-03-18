@@ -38,5 +38,5 @@ By using "girly," cute aesthetics and pop culture themes, I aim to show girls th
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://amyouyang1.medium.com/)
 [<img alt="Tumblr" src="https://img.shields.io/badge/Tumblr-darkblue.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" />](https://www.tumblr.com/amyouyangart)
 [<img alt="Yelp" src="https://img.shields.io/badge/Yelp-red?&style=for-the-badge&logo=Yelp&logoColor=white" />](https://www.yelp.com/user_details?userid=swklLzy1xKGmEcyLtHhkNw)
-[<img alt="Letterboxd" src="https://img.shields.io/badge/Letterboxd-00e054?&style=for-the-badge&logo=Letterboxd&logoColor=white" />](https://boxd.it/35uRn)
+[<img alt="Letterboxd" src="https://img.shields.io/badge/Letterboxd-00e054?&style=for-the-badge&logo=Letterboxd&logoColor=white" />](https://letterboxd.com/amicorn/)
 
